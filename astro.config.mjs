@@ -6,7 +6,7 @@ import vercel from "@astrojs/vercel/serverless";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://astro-frontend-masters.vercel.app/',
+  site: 'https://astro-frontend-masters-2kw2.vercel.app/',
   integrations: [solid({
     include: ["**/solid/*"]
   }), react({
